@@ -1,13 +1,10 @@
-#name, main, version and api are required
-name: ExamplePlugin
-main: ExamplePlugin\MainClass
+name: PocketHungerGames
+main: PocketHungerGames\Main
 version: 1.0.0
 api: [1.0.0]
-
-load: POSTWORLD
-author: PocketMine Team
-description: Example plugin showing the new API
-website: https://github.com/PocketMine/ExamplePlugin
+author: Imagical Corporation
+description: A rewrite of the popular PocketHungerGames plugin.
+website: http://imagicalcorp.github.io/PocketHungerGames
 commands:
  example:
   description: Example command
