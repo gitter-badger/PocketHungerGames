@@ -1,16 +1,7 @@
 name: PocketHungerGames
-main: PocketHungerGames\Main
-version: 1.0.0
-api: [1.0.0]
+main: PHG\Loader
+version: "1.0.0dev"
+api: [1.13.0]
 author: Imagical Corporation
 description: A rewrite of the popular PocketHungerGames plugin.
 website: http://imagicalcorp.github.io/PocketHungerGames
-commands:
- example:
-  description: Example command
-  usage: "Usage: /example"
-  permission: exampleplugin.command.example
-permissions:
- exampleplugin.command.example:
-  description: "Allows the user to run the example command"
-  default: true
