@@ -1,5 +1,7 @@
 # IN-DEV
 
+[![Join the chat at https://gitter.im/ImagicalCorp/PocketHungerGames](https://badges.gitter.im/ImagicalCorp/PocketHungerGames.svg)](https://gitter.im/ImagicalCorp/PocketHungerGames?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # PocketHungerGames
 
 PocketHungerGames is a rewrite of the popular PocketHungerGames plugin for PocketMine 1.3. It is based on [Omattyao's](https://forums.pocketmine.net/members/omattyao.180/) [PocketHungerGames](https://forums.pocketmine.net/plugins/pockethungergames.52/).
